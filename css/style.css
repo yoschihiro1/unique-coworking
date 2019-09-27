@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|DM+Sans|Indie+Flower|Montserrat|Open+Sans+Condensed:300|Oxygen|Roboto|Roboto+Mono&display=swap');
+
+#img-header {
+
+    width: 100%;
+}
+
+.div-header{
+    /* border: 1px solid white; */
+    text-align: center;
+    position:absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+}
+
+
+h1 {
+    color:white;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;   
+}
+h2 {
+    color:white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+/* p {
+    color:white;
+   font-size: 20px;
+   font-family: 'Roboto', sans-serif; 
+} */
+/* a {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    background-color: purple;
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    width: 250px;
+    height: 60px;
+    padding-top: 8px;
+    border-radius: 40px;
+    margin: 50px;
+    } */
+.div-header p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.div-header a {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    background-color: blueviolet;
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    width: 250px;
+    height: 60px;
+    padding-top: 8px;
+    border-radius: 40px;
+    margin: 50px;
+}
+.div-header a:hover {
+    transform:scale(1.1);
+}
+
+.div-cards {
+    margin: 50px;
+
+}
+.background-carousel {
+    background-color: blueviolet;
+    width: 100%;
+    height: 300px;
+}
+.div-carrossel {
+    padding-top: 30px;
+}
+.div-price h1 {
+    color: black;
+}
+.div-price {
+    margin: 80px;
+}
+.btn-primary {
+    background-color: blueviolet;
+    border:none;
+}
+
+.btn-primary:hover {
+    background-color: grey;
+}
+    
+.btn-outline-primary {
+    color: blueviolet;
+    border:2px solid blueviolet;
+    
+}
+
+.btn-outline-primary:hover {
+    background-color: grey;
+}
+
+.card-header {
+    background-color: blueviolet;
+    color: white;
+}
+.d-block {
+    padding-left: 100px;
+}
+.mb-2 {
+    margin: 100px;
+}
+
+.div-rodape {
+    margin: 80px;
+}
